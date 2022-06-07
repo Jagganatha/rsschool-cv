@@ -18,7 +18,6 @@
 ## **Code examples:**
 
 ---
-
 ## **Education:**
 
 ---
